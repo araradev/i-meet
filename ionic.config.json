@@ -1,0 +1,8 @@
+{
+  "name": "iMeet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "6a0b03db"
+}
